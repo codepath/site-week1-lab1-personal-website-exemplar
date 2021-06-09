@@ -5,4 +5,4 @@ In this project you will create a personal website for someone else using HTML a
 
 Find the core instructions for this lab on the [CodePath course portal](https://courses.codepath.org/courses/summer_internship_for_tech_excellence/unit/1#!lab)
 
-Checkout our deployed page at [https://codepath.github.io/personal-website-exemplar/](https://codepath.github.io/personal-website-exemplar/)
+Checkout our deployed page at [https://codepath.github.io/personal-website-exemplar/](https://codepath.github.io/personal-website-exemplar/) using GitHub Pages
